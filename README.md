@@ -5,7 +5,6 @@
 </p>
 
 # FTW smart contracts
-This project aims to be useful react components and library to make NEO dApp development easier.
 
 ## List
 ### Nep5 Lottery Platform
