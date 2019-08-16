@@ -1,0 +1,5 @@
+# IDE specific
+.idea
+
+# Python files
+*.py
