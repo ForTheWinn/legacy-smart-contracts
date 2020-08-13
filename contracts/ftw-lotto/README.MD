@@ -1,6 +1,6 @@
-# NLP (Nep5 Lottery platform)
+# FTW Lotto
 
-NLP is the first purely decentralized smart contract lottery that lets users operate and maintain the lottery over their earnings. it aims to rectify the shortcomings in the traditional lottery in which the participation is limited and most funds are used in maintaining administrative costs.
+The first purely decentralized smart contract lottery that lets users operate and maintain the lottery over their earnings. it aims to rectify the shortcomings in the traditional lottery in which the participation is limited and most funds are used in maintaining administrative costs.
 
 ## Contract type
 Application

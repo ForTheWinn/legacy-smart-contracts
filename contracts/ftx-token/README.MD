@@ -1,4 +1,4 @@
-# For the win X
+# FTX Token
 
 ## Contract type
 Token (NEP5)

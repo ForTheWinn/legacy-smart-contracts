@@ -1,4 +1,4 @@
-# For the win - Deprecated
+# FTW Token - Deprecated
 FTW have swapped to FTX
 
 ## Contract type
