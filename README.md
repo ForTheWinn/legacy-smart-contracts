@@ -1,8 +1,13 @@
-# FTW smart contracts
+# FTW Smart Contracts
+
+### FTW Lotto Platform (NEO2 Testnet)
+* Fully decentralized blockchain lottery platform
+* [Website](https://forthewinn.github.io/ftw-lotto-platform)
 
 ### FTW Lotto
 * Fully decentralized blockchain lottery
 * [Docs](https://github.com/ForTheWinn/smart-contracts/tree/master/contracts/ftw-lotto)
+* [Website](https://forthewinn.github.io/ftw-lotto)
 * Deployed at 2/3/2019, 3:52:03 PM [link](https://neotracker.io/contract/ada839286d23cdfb42eb556461b9382d02b6e12f)
 
 ### FTX Token
